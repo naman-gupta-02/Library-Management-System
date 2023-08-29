@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    </head>
+    <body>
+        <h1 id="title" onclick="sayGoodbye();">
+            Hello
+        </h1>
+        <p>
+            <h2 id="content" onclick="sayHello();">
+                Click Me
+            </h2>
+        </p>
+    </body>
+    <script type="text/javascript">
+        function sayHello() {
+            alert('Fuck Off');
+        };
+
+        function sayGoodbye(){
+            console.log("goodbye");
+            $("#title").html("Goodbye");
+            $("#title").click(function () {
+                $("#title").html("Hello");
+                $("#title").off("click");
+            });
+        };
+    </script>

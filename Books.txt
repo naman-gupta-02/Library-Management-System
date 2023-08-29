@@ -1,0 +1,48 @@
+To Kill A Mockingbird
+Harper Lee
+234568
+2015
+The Great Gatsby
+F.Scott Fitzgerald
+789321
+1920
+One Hundred Years of Solitude
+Gabriel Garcia Marquez
+82013
+1967
+A Passage to India
+E.M. Forster
+678213
+1924
+Invisible Man
+Ralph Ellison
+83134
+1953
+Don Quixote
+Miguel de Cervantes
+457812
+1615
+Beloved
+Toni Morrison
+303831
+1987
+Mrs. Dalloway
+Virginia Woolf
+420913
+1932
+Things Fall Apart
+Chinua Achebe
+831941
+1958
+Jane Eyre
+Charlotte Bronte
+639341
+1847
+The Color Purple
+Alice Walker
+932742
+1942
+44 Scotland Street
+Alexander McCall Smith
+639342
+2005
